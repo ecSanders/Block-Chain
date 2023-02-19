@@ -1,0 +1,15 @@
+C:\Users\ecsan\Repositories\Block Chain\bin\Debug\net7.0\Block Chain.exe
+C:\Users\ecsan\Repositories\Block Chain\bin\Debug\net7.0\Block Chain.deps.json
+C:\Users\ecsan\Repositories\Block Chain\bin\Debug\net7.0\Block Chain.runtimeconfig.json
+C:\Users\ecsan\Repositories\Block Chain\bin\Debug\net7.0\Block Chain.dll
+C:\Users\ecsan\Repositories\Block Chain\bin\Debug\net7.0\Block Chain.pdb
+C:\Users\ecsan\Repositories\Block Chain\obj\Debug\net7.0\Block Chain.csproj.AssemblyReference.cache
+C:\Users\ecsan\Repositories\Block Chain\obj\Debug\net7.0\Block Chain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecsan\Repositories\Block Chain\obj\Debug\net7.0\Block Chain.AssemblyInfoInputs.cache
+C:\Users\ecsan\Repositories\Block Chain\obj\Debug\net7.0\Block Chain.AssemblyInfo.cs
+C:\Users\ecsan\Repositories\Block Chain\obj\Debug\net7.0\Block Chain.csproj.CoreCompileInputs.cache
+C:\Users\ecsan\Repositories\Block Chain\obj\Debug\net7.0\Block Chain.dll
+C:\Users\ecsan\Repositories\Block Chain\obj\Debug\net7.0\refint\Block Chain.dll
+C:\Users\ecsan\Repositories\Block Chain\obj\Debug\net7.0\Block Chain.pdb
+C:\Users\ecsan\Repositories\Block Chain\obj\Debug\net7.0\Block Chain.genruntimeconfig.cache
+C:\Users\ecsan\Repositories\Block Chain\obj\Debug\net7.0\ref\Block Chain.dll
